@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesafioEx01/1.0.0": {
+        "runtime": {
+          "DesafioEx01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioEx01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
