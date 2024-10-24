@@ -1,0 +1,15 @@
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\bin\Debug\net8.0\ArraysExemplo.exe
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\bin\Debug\net8.0\ArraysExemplo.deps.json
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\bin\Debug\net8.0\ArraysExemplo.runtimeconfig.json
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\bin\Debug\net8.0\ArraysExemplo.dll
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\bin\Debug\net8.0\ArraysExemplo.pdb
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\obj\Debug\net8.0\ArraysExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\obj\Debug\net8.0\ArraysExemplo.AssemblyInfoInputs.cache
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\obj\Debug\net8.0\ArraysExemplo.AssemblyInfo.cs
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\obj\Debug\net8.0\ArraysExemplo.csproj.CoreCompileInputs.cache
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\obj\Debug\net8.0\ArraysExemplo.sourcelink.json
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\obj\Debug\net8.0\ArraysExemplo.dll
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\obj\Debug\net8.0\refint\ArraysExemplo.dll
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\obj\Debug\net8.0\ArraysExemplo.pdb
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\obj\Debug\net8.0\ArraysExemplo.genruntimeconfig.cache
+C:\Users\52529661847\Desktop\aula-backend\ArraysExemplo\obj\Debug\net8.0\ref\ArraysExemplo.dll
