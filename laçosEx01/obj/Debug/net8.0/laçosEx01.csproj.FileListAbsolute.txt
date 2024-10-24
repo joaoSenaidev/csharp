@@ -1,0 +1,14 @@
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\bin\Debug\net8.0\laçosEx01.exe
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\bin\Debug\net8.0\laçosEx01.deps.json
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\bin\Debug\net8.0\laçosEx01.runtimeconfig.json
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\bin\Debug\net8.0\laçosEx01.dll
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\bin\Debug\net8.0\laçosEx01.pdb
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\obj\Debug\net8.0\laçosEx01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\obj\Debug\net8.0\laçosEx01.AssemblyInfoInputs.cache
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\obj\Debug\net8.0\laçosEx01.AssemblyInfo.cs
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\obj\Debug\net8.0\laçosEx01.csproj.CoreCompileInputs.cache
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\obj\Debug\net8.0\laçosEx01.dll
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\obj\Debug\net8.0\refint\laçosEx01.dll
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\obj\Debug\net8.0\laçosEx01.pdb
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\obj\Debug\net8.0\laçosEx01.genruntimeconfig.cache
+C:\Users\52529661847\Desktop\aula-backend\laçosEx01\obj\Debug\net8.0\ref\laçosEx01.dll
