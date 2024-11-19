@@ -1,0 +1,27 @@
+﻿using PilaresPOO.Classes;
+
+Console.Clear();
+
+
+
+Mago personagemMago = new Mago();
+personagemMago.Cajado = "";
+Console.Write($"Digite a classe do seu cajado:");
+personagemMago.Cajado = Console.ReadLine();
+Guerreiro personagemGuerreiro = new Guerreiro();
+Console.Write($"Digite o nome da sua espada:");
+personagemGuerreiro.Espada = Console.ReadLine();
+Arqueiro personagemArqueiro = new Arqueiro();
+Console.Write($"Digite o nome do seu arco:");
+personagemArqueiro.Arco = Console.ReadLine();
+
+PowerGeneric generic = new PowerGeneric();
+
+Console.Clear();
+
+personagemMago.Atacar();
+personagemGuerreiro.Atacar();
+personagemArqueiro.Atacar();
+generic.Atacar();
+
+
